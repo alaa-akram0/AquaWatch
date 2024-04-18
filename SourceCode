@@ -2,4 +2,6 @@
 	org 0x00
 MAIN
 goto MAIN
+org 0x04
+;ISR goto ISR
 	end
